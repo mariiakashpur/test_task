@@ -1,0 +1,7 @@
+Keras
+Numpy
+Pandas
+Scipy
+Scikit-learn
+Spacy (!!! Important!!! you have to run 'python -m spacy download en' to download a model for English)
+
